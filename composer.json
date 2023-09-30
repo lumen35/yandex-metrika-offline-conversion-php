@@ -13,6 +13,7 @@
         "php": "*",
         "ext-json": "*"
     },
+    "minimum-stability": "dev"
     "autoload": {
         "psr-4": {
             "Meiji\\YandexMetrikaOffline\\": "src/"
